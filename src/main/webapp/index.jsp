@@ -13,7 +13,7 @@
     </nav>
     <div class="background-image"></div>
     <div class="form-wrapper">
-      <h2> Hiiiii</h2>
+      <h2>Welcome to Cinema World</h2>
       <form action="#">
         <div class="form-control">
           <input type="text" required />
